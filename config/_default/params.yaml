@@ -32,6 +32,8 @@ address:
 coordinates:
   latitude: '36.3702019'
   longitude: '127.3613266'
+engine: 1
+api_key: AIzaSyBXc3kab8S9gl7dubPMve3xmBiinAlJcOk
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
