@@ -58,7 +58,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: en-us''
 
 # Site features
 
@@ -114,7 +114,7 @@ search:
     show_logo: false
 map:
   provider: google
-  api_key: AIzaSyBXc3kab8S9gl7dubPMve3xmBiinAlJcOk
+  api_key: 
   zoom: 15
 marketing:
   google_analytics: ''
